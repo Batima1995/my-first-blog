@@ -25,7 +25,7 @@ SECRET_KEY = '^fe^4ic941(^f^9$fre%$2g=iy%4$-c$0sp2=_v7yvdbx_&7d@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<batima>.uruzbayeva.b@rahmetapp.kz']
+ALLOWED_HOSTS = []
 
 
 # Application definition
